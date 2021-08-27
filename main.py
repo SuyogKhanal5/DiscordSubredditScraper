@@ -6,7 +6,7 @@ import random
 from discord.ext import commands, tasks
 
 client = commands.Bot(command_prefix = '!')
-token = 'ODgwMjQ5MTgxNTUyMzg2MTA5.YSbh7w.omsc3ahBbUhw9KUVsd2Q8IVi00c'
+token = 'token'
 
 channel_id = 0
 hours_post = 0
